@@ -1,0 +1,25 @@
+html {
+  font-family: Overpass, sans-serif;
+  background: linear-gradient(180deg, #ff9500, #ff5e3a);
+}
+
+h1 {
+  color: #fff;
+}
+
+h2 {
+  color: #fff;
+}
+
+p {
+  color: #fff;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+i {
+  color: #fff;
+}
